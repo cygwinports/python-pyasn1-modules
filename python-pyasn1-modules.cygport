@@ -1,0 +1,12 @@
+inherit python-wheel
+
+NAME="python-pyasn1-modules"
+VERSION=0.0.8
+RELEASE=1
+CATEGORY="Python"
+SUMMARY="ASN.1-based protocol modules for Python"
+DESCRIPTION="This is a small but growing collection of ASN.1 data structures
+expressed in Python terms using pyasn1 data model.  It’s thought to be useful
+to protocol developers and testers."
+
+ARCH=noarch
